@@ -7,4 +7,4 @@ The functionalities are
 
 The system provides the following key features:
 
-(![Screenshot (58)](https://github.com/user-attachments/assets/8d419b25-bddd-46ad-b00c-12df79a81213)
+![Screenshot (58)](https://github.com/user-attachments/assets/8d419b25-bddd-46ad-b00c-12df79a81213)
